@@ -1,0 +1,22 @@
+[
+  {
+    "id": 4,
+    "title": "New post",
+    "body": "New Body Post"
+  },
+  {
+    "id": 5,
+    "title": "hey from api",
+    "body": "hey from api"
+  },
+  {
+    "id": 6,
+    "title": "after router updated",
+    "body": "after router updated"
+  },
+  {
+    "id": 7,
+    "title": "heey Newly updated",
+    "body": "heee newly updated"
+  }
+]
